@@ -1,95 +1,154 @@
  <div align="center">
 
-<!-- PROFILE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F3B82,100:2563EB&height=220&section=header&text=ARTAN%20V.&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Cloud%20%26%20Network%20Technology&descSize=15&descAlignY=60" width="100%" alt="Artan V. profile banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F3B82,100:2563EB&height=220&section=header&text=ARTAN%20V.&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Technology%20Enthusiast%20%7C%20Problem%20Solver&descSize=15&descAlignY=58" width="100%" alt="Artan V. profile banner"/>
+# Artan V.
 
-# 👋 Hello, I'm Artan V.
+### Software Developer · Cloud & Network Technology
 
-### Developer • Technology Enthusiast • Digital Problem Solver
+**Building practical software. Exploring infrastructure. Connecting technology.**
 
-I enjoy building practical software, exploring technology, and turning ideas into functional applications.
-
-I am particularly interested in **software development, networking, DNS infrastructure, cybersecurity, and modern web technologies.**
+I build practical tools and web applications around networking, cloud infrastructure, and day-to-day engineering workflows.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-artanphn--dotcom-181717?style=for-the-badge&logo=github)](https://github.com/artanphn-dotcom)
+<a href="https://vitija.de/"><img src="https://img.shields.io/badge/Website-vitija.de-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://github.com/artanphn-dotcom"><img src="https://img.shields.io/badge/GitHub-artanphn--dotcom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Cloud-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Infrastructure-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About
 
-- 💻 Interested in software development and modern technologies.
-- 🌐 Exploring DNS, networking, and internet infrastructure.
-- 🔐 Interested in cybersecurity and domain security.
-- ⚙️ Building lightweight and practical applications.
-- 📊 Focused on clean interfaces, functionality, and maintainable code.
-- 🧠 Always learning, experimenting, and improving.
+My projects bring together **software development and infrastructure**: from DNS diagnostics and network troubleshooting resources to cloud engineering references and full-stack applications.
 
-I believe good software should be **useful, efficient, reliable, and easy to maintain.**
+I enjoy turning technical topics into useful, approachable tools and continuing to learn by building.
+
+My approach is centered around practical solutions, clean interfaces, maintainable code, and making complex technical workflows easier to understand and use.
+
+## 🎯 Current Areas of Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Network Engineering
+
+- DNS infrastructure
+- VPN technologies
+- BGP and routing
+- Network diagnostics
+- Troubleshooting workflows
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Infrastructure
+
+- Google Cloud Platform
+- Terraform
+- Cloudflare
+- Infrastructure as Code
+- Cloud networking concepts
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Web Development
+
+- TypeScript & JavaScript
+- React
+- Node.js & Express
+- Data-driven interfaces
+- Full-stack applications
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 Engineering Resources
+
+- Command references
+- Technical learning portals
+- Network utilities
+- Troubleshooting toolkits
+- Practical developer resources
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 Selected Projects
 
-### Programming & Development
+A collection of practical applications, infrastructure references, and engineering resources.
+
+### 🌐 Networking & Cloud Engineering
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| [DNS Diagnostics Dashboard](https://github.com/artanphn-dotcom/dns-page) | DNS lookups, domain health checks, TLS diagnostics, and reporting dashboard. | Node.js, JavaScript |
+| [GCP Network Engineer Hub](https://github.com/artanphn-dotcom/gcp-tutorial-2027) | Google Cloud networking commands, troubleshooting, learning resources, and architecture references. | React, TypeScript |
+| [Ubuntu / WSL Network Toolkit](https://github.com/artanphn-dotcom/WSL-Network-Toolkit) | Linux networking toolkit and searchable reference for diagnostics and troubleshooting. | Linux, Networking |
+| [Enterprise IaC Portal](https://github.com/artanphn-dotcom/enterprise-iac-portal) | Learning and reference portal for cloud platforms, Infrastructure as Code, networking, and security. | Cloud, IaC |
+
+### 💻 Applications & Developer Resources
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| [VIT CRM](https://github.com/artanphn-dotcom/VIT-CRM) | Full-stack CRM MVP with database integration and containerized development. | React, TypeScript, Express, PostgreSQL, Prisma, Docker |
+| [Cloud Networking Knowledge Portal](https://github.com/artanphn-dotcom/inf_cloud) | Command reference covering Google Cloud networking, Terraform, and GitHub workflows. | Google Cloud, Terraform |
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode" alt="Development technologies"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,html,css" alt="Programming languages"/>
 </p>
 
-### Areas of Interest
+### Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/DNS-0F3B82?style=flat-square&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-2563EB?style=flat-square&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
-  <img src="https://img.shields.io/badge/TLS%2FSSL-16A34A?style=flat-square&logo=letsencrypt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web_Development-F97316?style=flat-square&logo=googlechrome&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite" alt="Web development technologies"/>
 </p>
 
----
+### Data & Development Tools
 
-## 🌟 Featured Project
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,prisma,docker,git,github,vscode" alt="Development tools"/>
+</p>
 
-<div align="center">
+### Cloud & Infrastructure Interests
 
-### 🌐 DNS Tool
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,terraform,cloudflare,linux" alt="Cloud and infrastructure technologies"/>
+</p>
 
-**Professional DNS Diagnostics & Domain Intelligence Dashboard**
-
-</div>
-
-A lightweight Node.js application designed for domain investigations, DNS record inspection, network diagnostics, and TLS/SSL analysis.
-
-**Key Features:**
-
-- 🔍 DNS record lookups (A, AAAA, MX, TXT, CNAME, NS and more).
-- 🌍 Domain health and connectivity checks.
-- 🛡️ SPF, DKIM, DMARC and DNSSEC visibility.
-- 🔐 TLS/SSL certificate diagnostics.
-- 📡 Public IP and geolocation information.
-- 📊 Consolidated diagnostic reports.
-- 📄 PDF report export with light and dark themes.
-
-<div align="center">
-
-[![Explore DNS Tool](https://img.shields.io/badge/EXPLORE_DNS_TOOL-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artanphn-dotcom/DNS-Tool)
-
-</div>
+**Additional areas:** DNS · VPN · BGP · Routing · Network Operations · Infrastructure as Code
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=artanphn-dotcom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=artanphn-dotcom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artanphn-dotcom&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artanphn-dotcom&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 <br>
 
@@ -99,36 +158,30 @@ A lightweight Node.js application designed for domain investigations, DNS record
 
 ---
 
-## 🎯 Current Focus
+## 🤝 Connect
 
-- 🚀 Developing practical software projects.
-- 🌐 Exploring DNS infrastructure and network diagnostics.
-- 🔐 Learning more about internet and domain security.
-- ⚡ Improving application performance and user experience.
-- 🧩 Building clean, maintainable, and useful tools.
+Interested in cloud infrastructure, networking, software development, and practical engineering solutions?
 
----
-
-## 🤝 Let's Connect
-
-I'm always interested in technology, software development, and new ideas.
-
-If you're exploring similar areas or working on interesting projects, feel free to connect.
+Feel free to explore my projects or connect through my website and GitHub.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/artanphn-dotcom)
+<a href="https://vitija.de/">
+<img src="https://img.shields.io/badge/🌐_PERSONAL_WEBSITE-vitija.de-2563EB?style=for-the-badge" alt="Personal website"/>
+</a>
 
-<br>
-
-**Thanks for visiting my profile!** ⭐
-
-<sub>Building. Learning. Improving. Repeating.</sub>
+<a href="https://github.com/artanphn-dotcom">
+<img src="https://img.shields.io/badge/GITHUB-artanphn--dotcom-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+</a>
 
 <br><br>
 
-© 2026 **Artan V.** — All Rights Reserved.
+**Build. Learn. Engineer. Improve.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F3B82,100:020617&height=110&section=footer" width="100%" alt="Footer banner"/>
+<br>
+
+<sub>© 2026 Artan V. All Rights Reserved.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F3B82,100:020617&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
