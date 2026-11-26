@@ -1,194 +1,214 @@
-<<<<<<< HEAD
- <div align="center">
+ <!-- ARTAN V. | GitHub Profile README -->
 
-# ARTAN V.
+<div align="center">
 
-**Software Developer · Cloud & Network Technology**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:172554,100:0369A1&height=190&section=header&text=ARTAN%20V.&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=NETWORK%20ENGINEERING%20%7C%20GOOGLE%20CLOUD%20%7C%20TERRAFORM&descSize=15&descAlignY=68&descColor=BAE6FD" width="100%" alt="Artan V. Network Engineering and Cloud Infrastructure banner"/>
 
-Building software and practical engineering tools across cloud infrastructure, networking, and web development.
+# Artan V.
 
-[vitija.de](https://vitija.de/) &nbsp;·&nbsp; [GitHub](https://github.com/artanphn-dotcom)
+### Network Engineering · Google Cloud · Terraform
+
+**Building, automating, and troubleshooting modern network and cloud infrastructure.**
+
+[![Website](https://img.shields.io/badge/Website-vitija.de-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vitija.de)
+[![GitHub](https://img.shields.io/badge/GitHub-artanphn--dotcom-181717?style=for-the-badge&logo=github)](https://github.com/artanphn-dotcom)
 
 </div>
 
 ---
 
-## Profile
+## About Me
 
-I build practical software and web applications that connect software development with infrastructure engineering.
+I'm a technology enthusiast and developer focused on **network engineering, cloud infrastructure, and infrastructure automation**.
 
-My work spans DNS diagnostics, network troubleshooting, cloud engineering resources, infrastructure automation, and full-stack applications.
+My work combines practical networking knowledge with modern cloud technologies and software development. I enjoy building tools, documenting technical workflows, and creating resources that make infrastructure easier to understand, deploy, and troubleshoot.
 
-I value clean architecture, maintainable code, useful interfaces, and solutions that simplify real engineering workflows.
+My primary areas of interest include:
 
-## Areas of Expertise & Interest
+- **Network Engineering:** DNS, TCP/IP, routing, BGP, VPN, network troubleshooting and infrastructure monitoring.
+- **Google Cloud Platform:** VPC networks, subnets, firewall rules, Cloud NAT, Cloud DNS, load balancing and cloud architecture.
+- **Infrastructure as Code:** Terraform, reusable infrastructure configurations, automation and version-controlled deployments.
+- **Linux & Networking Tools:** Ubuntu, WSL, network diagnostics, command-line utilities and system administration.
+- **Engineering Development:** Building practical dashboards, technical portals and tools for infrastructure engineers.
 
-| Domain | Technologies and Focus |
-|---|---|
-| **Network Engineering** | DNS, VPN, BGP, routing, network diagnostics |
-| **Cloud Infrastructure** | Google Cloud, Cloudflare, Terraform |
-| **Web Development** | TypeScript, JavaScript, React, Node.js |
-| **Backend & Data** | Express, PostgreSQL, Prisma |
-| **DevOps & Tooling** | Docker Compose, Git, Linux, Infrastructure as Code |
+My goal is to bridge the gap between traditional network engineering and modern cloud-native infrastructure.
 
-## Selected Projects
+---
 
-Projects focused on practical software development, network engineering, and cloud infrastructure.
+## Core Engineering Focus
 
-### Infrastructure & Networking
+<div align="center">
+
+| 🌐 Network Engineering | ☁️ Google Cloud | ⚙️ Infrastructure as Code |
+|:---:|:---:|:---:|
+| DNS & TCP/IP | GCP VPC | Terraform |
+| BGP & Routing | Cloud DNS | IaC Workflows |
+| VPN & Connectivity | Cloud NAT | Automation |
+| Network Troubleshooting | Firewall Rules | Infrastructure Modules |
+| Network Diagnostics | Load Balancing | Git & Version Control |
+
+</div>
+
+## Technology Stack
+
+### Network Engineering
+
+<p>
+<img src="https://img.shields.io/badge/DNS-0F172A?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
+<img src="https://img.shields.io/badge/TCP%2FIP-1E293B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BGP-1E293B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VPN-1E293B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Routing-1E293B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### Development & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,react,vite,postgres,prisma,html,css" />
+</p>
+
+---
+
+## Featured Engineering Projects
+
+My repositories focus on practical engineering resources, network diagnostics, cloud infrastructure and automation.
+
+### 🌐 Network Engineering
 
 **[DNS Diagnostics Dashboard](https://github.com/artanphn-dotcom/dns-page)**
 
-A Node.js and vanilla JavaScript dashboard for DNS record lookups, domain health monitoring, TLS diagnostics, and consolidated reporting.
+A practical DNS and domain diagnostics dashboard.
+
+- DNS record lookups and analysis
+- Domain health monitoring
+- TLS/SSL diagnostics
+- Consolidated diagnostic reporting
 
 `Node.js` `JavaScript` `DNS` `TLS/SSL`
 
 ---
 
-**[GCP Network Engineer Hub](https://github.com/artanphn-dotcom/gcp-tutorial-2027)**
-
-A React and TypeScript reference portal covering Google Cloud networking commands, troubleshooting workflows, architecture, and technical learning resources.
-
-`React` `TypeScript` `Google Cloud`
-
----
-
 **[Ubuntu / WSL Network Toolkit](https://github.com/artanphn-dotcom/WSL-Network-Toolkit)**
 
-A practical Linux networking toolkit and searchable reference for network diagnostics and troubleshooting.
+A Linux networking toolkit and searchable technical reference for everyday network operations.
 
-`Linux` `Networking` `WSL`
+- Network diagnostic commands
+- Linux networking workflows
+- Troubleshooting references
+- Ubuntu and Windows Subsystem for Linux
+
+`Linux` `Ubuntu` `WSL` `Networking`
 
 ---
 
-**[Enterprise IaC Portal](https://github.com/artanphn-dotcom/enterprise-iac-portal)**
+### ☁️ Google Cloud & Cloud Networking
 
-A web-based learning and reference portal covering cloud platforms, Infrastructure as Code, networking, and security.
+**[GCP Network Engineer Hub](https://github.com/artanphn-dotcom/gcp-tutorial-2027)**
 
-`Cloud Infrastructure` `IaC` `Networking`
+A technical learning and reference portal dedicated to Google Cloud networking.
 
-### Applications & Developer Resources
+- Google Cloud networking commands
+- Cloud networking architecture
+- Troubleshooting workflows
+- Practical GCP engineering resources
 
-**[VIT CRM](https://github.com/artanphn-dotcom/VIT-CRM)**
-
-A full-stack CRM MVP built with a modern frontend, API backend, relational database, and containerized development environment.
-
-`React` `TypeScript` `Express` `PostgreSQL` `Prisma` `Docker Compose`
+`Google Cloud` `React` `TypeScript` `Networking`
 
 ---
 
 **[Cloud Networking Knowledge Portal](https://github.com/artanphn-dotcom/inf_cloud)**
 
-A technical command reference covering Google Cloud networking, Terraform, and GitHub workflows.
+A technical knowledge base covering cloud networking, infrastructure tools and engineering workflows.
 
-`Google Cloud` `Terraform` `GitHub`
+- Google Cloud networking references
+- Terraform documentation and commands
+- GitHub workflows
+- Cloud engineering resources
 
-## Technology Stack
-
-**Languages**
-
-TypeScript · JavaScript · Python · PHP · HTML · CSS
-
-**Frontend**
-
-React · Vite · HTML5 · CSS3
-
-**Backend**
-
-Node.js · Express
-
-**Database & Development**
-
-PostgreSQL · Prisma · Docker Compose · Git
-
-**Cloud & Infrastructure**
-
-Google Cloud · Terraform · Cloudflare · Linux · DNS · VPN · BGP
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=artanphn-dotcom&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=64748B&hide=contribs" width="70%" alt="GitHub statistics"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artanphn-dotcom&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=64748B" alt="Most used languages"/>
-
-</div>
-
-## Contact
-
-For projects, technical discussions, and professional inquiries:
-
-- **Website:** [https://vitija.de](https://vitija.de)
-- **GitHub:** [https://github.com/artanphn-dotcom](https://github.com/artanphn-dotcom)
+`GCP` `Terraform` `GitHub`
 
 ---
 
+### ⚙️ Infrastructure as Code & Cloud Architecture
+
+**[Enterprise IaC Portal](https://github.com/artanphn-dotcom/enterprise-iac-portal)**
+
+A web-based technical learning and reference portal covering infrastructure engineering.
+
+- Cloud infrastructure concepts
+- Infrastructure as Code
+- Networking and security
+- Cloud engineering resources
+
+`Cloud Infrastructure` `IaC` `Networking` `Security`
+
+---
+
+### 💻 Software Engineering
+
+**[VIT CRM](https://github.com/artanphn-dotcom/VIT-CRM)**
+
+A full-stack CRM MVP built with a modern frontend, API backend and relational database.
+
+`React` `TypeScript` `Express` `PostgreSQL` `Prisma` `Docker Compose`
+
+---
+
+## Cloud & Network Engineering Roadmap
+
+My ongoing technical interests and learning areas:
+
+| Area | Technologies & Topics |
+|---|---|
+| Network Fundamentals | TCP/IP, subnetting, DNS, DHCP |
+| Routing & Connectivity | BGP, static routing, VPN |
+| Google Cloud Networking | VPC, subnets, firewall rules, Cloud NAT |
+| Cloud Services | Cloud DNS, Load Balancing, connectivity |
+| Infrastructure as Code | Terraform, modules, variables, state |
+| Automation | Git, scripting, repeatable deployments |
+| Linux Networking | Ubuntu, WSL, network diagnostics |
+| Cloud Architecture | Network design, security, scalability |
+
+---
+
+## GitHub Statistics
+
 <div align="center">
 
-**ARTAN V.**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=artanphn-dotcom&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github" alt="GitHub statistics"/>
 
-Software Development · Cloud Infrastructure · Network Engineering
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artanphn-dotcom&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Most used programming languages"/>
 
-© 2026 Artan V. All Rights Reserved.
-
-</div>
-=======
-<div align="center">
-
-# Artan V.
-
-### Software Developer · Cloud & Network Technology
-
-I build practical tools and web applications around networking, cloud infrastructure, and day-to-day engineering workflows.
-
-[Website](https://vitija.de) · [GitHub](https://github.com/artanphn-dotcom)
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=artanphn-dotcom&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## About
+## Connect With Me
 
-My projects bring together software development and infrastructure: from DNS diagnostics and network troubleshooting resources to cloud engineering references and full-stack applications. I enjoy turning technical topics into useful, approachable tools and continuing to learn by building.
-
-## Current areas of focus
-
-- **Network engineering:** DNS, VPN, BGP, routing, and diagnostic workflows
-- **Cloud and infrastructure:** Google Cloud, Terraform, Cloudflare, and infrastructure-as-code concepts
-- **Web development:** TypeScript, JavaScript, React, Node.js, and data-driven interfaces
-- **Practical engineering resources:** command references, learning portals, and lightweight utilities
-
-## Selected projects
-
-| Project | What it does |
-| --- | --- |
-| [DNS Diagnostics Dashboard](https://github.com/artanphn-dotcom/dns-page) | A Node.js and vanilla JavaScript dashboard for DNS lookups, domain health checks, TLS diagnostics, and reports. |
-| [GCP Network Engineer Hub](https://github.com/artanphn-dotcom/gcp-tutorial-2027) | A React and TypeScript reference portal for Google Cloud networking commands, troubleshooting, learning, and architecture. |
-| [Ubuntu / WSL Network Toolkit](https://github.com/artanphn-dotcom/WSL-Network-Toolkit) | A practical Linux networking toolkit and searchable reference for diagnostics and troubleshooting. |
-| [VIT CRM](https://github.com/artanphn-dotcom/VIT-CRM) | A full-stack CRM MVP built with React, TypeScript, Express, PostgreSQL, Prisma, and Docker Compose. |
-| [Enterprise IaC Portal](https://github.com/artanphn-dotcom/enterprise-iac-portal) | A web-based learning and reference portal for cloud platforms, infrastructure as code, networking, and security. |
-| [Cloud Networking Knowledge Portal](https://github.com/artanphn-dotcom/inf_cloud) | A command reference covering Google Cloud networking, Terraform, and GitHub workflows. |
-
-## Tools and technologies
-
-**Languages:** TypeScript, JavaScript, Python, PHP, HTML, CSS  
-**Web:** React, Node.js, Express, Vite  
-**Data and tooling:** PostgreSQL, Prisma, Docker Compose, Git  
-**Infrastructure interests:** Google Cloud, Terraform, Cloudflare, DNS, VPN, BGP, and network operations
-
-## Connect
-
-- Website: [vitija.de](https://vitija.de)
-- GitHub: [@artanphn-dotcom](https://github.com/artanphn-dotcom)
-
----
+Interested in network engineering, cloud infrastructure, Terraform, Google Cloud or technical collaboration?
 
 <div align="center">
 
-*Building useful things, learning as I go.*
+[![Website](https://img.shields.io/badge/Website-vitija.de-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vitija.de)
+[![GitHub](https://img.shields.io/badge/GitHub-artanphn--dotcom-181717?style=for-the-badge&logo=github)](https://github.com/artanphn-dotcom)
+
+**Network Engineering · Cloud Infrastructure · Infrastructure Automation**
+
+*Building practical solutions. Automating infrastructure. Learning continuously.*
+
+© 2026 Artan V.
 
 </div>
->>>>>>> 356780a92431721a85435b852bfda82912fc72ec
